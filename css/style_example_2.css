@@ -1,0 +1,50 @@
+﻿@charset "utf-8";
+body{
+	color:#7f571e;
+	background-color:#CFB48E;
+	margin: 0px;
+	border: 5px;
+	padding: 0px;
+}
+#titlename{
+	text-align:center;
+}
+#titlename h1{
+	
+	background-color:#ffffff; /* 将我的第一个网页居中以及设为白色 */
+	/*margin-left: 50%;
+	border: 0px;*/
+	margin-left:15%;
+	margin-top:0px;
+	padding: 0px 0px 4px 0px;
+	min-width:300px;
+	width:70%;
+	margin-bottom:0px;
+}
+div#bitch{
+	background-color:white;/* 将导航背景设为白色 */
+	width: 8%;
+	min-width: 150px;
+	margin-top:0px;
+	margin-left:15%;
+	
+	float:left;
+}
+#bitch h3{
+	margin-left:10px;
+	margin-top:10px;
+	margin-bottom:0px;
+}
+#nav{
+	background-color:eee;
+	float:right;
+	min-width:554.33px;
+	margin-right:15%;
+}
+#fuck{
+	background-color:eee;
+	
+	clear:right;
+	margin-left:15%;
+	margin-right:15%;
+}

@@ -1,0 +1,79 @@
+﻿@charset "utf-8";
+body{
+	color:#7f571e;
+	background-color:#687379;
+	margin: 0px;
+	border: 5px;
+	padding: 0px;
+}
+p.first{
+	margin-top:0px;
+	padding-top:5px;
+	margin-bottom:0px;
+}
+p.fuck{
+	margin:0px auto;
+}
+a {
+	text-decoration:none;
+}
+#titlename{
+	text-align:center;
+	margin-left:15%;
+	margin-right:15%;
+}
+#titlename h1{
+	
+	background-color:#ffffff; /* 将我的第一个网页居中以及设为白色 */
+	/*margin-left: 50%;
+	border: 0px;*/
+	margin-top:0px;
+	padding: 0px 0px 4px 0px;
+	min-width:400px;
+	margin-bottom:0px;
+}
+div#bitch{
+	background-color:#c0d9de;/* 将导航背景设为白色 */
+	width: 150px;
+	margin-top:0px;
+	margin-left:15%;
+	
+	float:left;
+	height:169px;
+}
+#bitch h3{
+	
+	margin-left:10px;
+	margin-top:10px;
+	margin-bottom:0px;
+}
+#bitch ul{
+	list-style:none;
+}
+#nav{
+	background-color:#99abaf;
+	color:#d7e9ea;
+	min-width:230px;
+	margin-right:15%;
+	margin-left:calc(15% + 150px);
+	padding:0 10px 0 10px;
+	height:169px;
+}
+#fuck{
+	background-color:eee;
+	padding-left:10px;
+	clear:both;
+	margin-left:15%;
+	margin-right:15%;
+	min-width:400px;
+}
+#test{
+	width:100px;
+	height:50px;
+	background-color:#d4e6e8;
+	margin-left:15%;
+	margin-top:50px;
+	padding:10px;
+	border:20px solid red;
+	
+}
